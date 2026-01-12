@@ -1,14 +1,21 @@
-# PROJECT
-## Overview
-Version 1.0 represents the initial baseline version of the project.
+PROJECT
+Overview
 
-## Description
-This version contains an early implementation of the system.
-The code and user interface were not aligned with the project topic or requirements.
+Version 2.0 represents the second release of the project, with significant improvements over the initial baseline.
 
-## Limitations
-- The user interface did not match the project theme.
-- The code structure was not suitable for the final project goals.
+Description
 
-## Notes
-This version served only as a starting point and was replaced in later versions.
+This version contains an updated implementation of the system.
+The code structure has been improved, and the user interface was redesigned to better match the project theme and requirements.
+
+Improvements
+
+User interface aligned with the project topic and visually enhanced.
+
+Code structure refactored for clarity, maintainability, and scalability.
+
+Core functionalities properly implemented according to the project goals.
+
+Notes
+
+This version replaced Version 1.0 and serves as the current stable release of the project.
