@@ -1,33 +1,35 @@
-# Project Documentation - Version 2.0 (V2.0)
+Project Documentation - Version 1.0 (V1.0)
 
-**Project Name:** [PROJECT] - HTML Website
-**Jira Issue Key:** SCRUM-23
+Project Name: Real Estate HTML Website
+Jira Issue Key: SCRUM-23
 
----
+1. V1.0 Overview
 
-## 1. V2.0 Overview
+This release represents the initial version of the Real Estate HTML Website project. It provides a basic implementation of core functionalities, including property browsing and messaging, serving as the starting point for future improvements and restructuring in later releases.
 
-This release marks the beginning of a complete restructuring and development effort to align the project with its core functionalities, which are [Briefly mention your project domain, e.g., "real estate viewing and rental services"], focusing on building a strong and responsive foundation for future scalability.
+2. Key Features and Tasks Addressed (SCRUM-23)
 
-## 2. Key Features and Tasks Addressed (SCRUM-23)
+The following operations were completed in this initial release:
 
-The following essential operations were completed under this maintenance task:
+Initial Code Base: Original HTML and CSS code was implemented to provide basic structure for the website.
 
-* **Complete Code Rewrite:** The outdated code has been replaced with clean, properly structured HTML5 and CSS3 code to support the required functionalities.
-* **User Interface (UI) Structure:** The initial page structure has been designed to support key features such as [Login], [Home Search], and [Send Message].
-* **Documentation File Added:** This file has been prepared to track changes and releases.
-* **Responsiveness Improvement:** Initial settings have been integrated to ensure the interface begins to display acceptably across various screen sizes.
+Functionality Implementation: Forms and basic interactive elements were implemented to allow users to perform fundamental actions.
 
-## 3. Local Project Setup
+Documentation Placeholder: Minimal documentation was included to track development progress.
+
+Screen Responsiveness: Initial responsiveness was implemented, but limited and not fully optimized across all devices.
+
+3. Local Project Setup
 
 To start working on or testing this release locally:
 
-1.  **Clone the Repository:** `git clone https://github.com/sajaaliadi0-ai/PROJECT.git`
-2.  **Current Branch:** The changes are available on the branch `feature/SCRUM-23-v2-release`.
-3.  **Run:** Open the `saja.html` file directly in any modern web browser.
+Clone the Repository: git clone https://github.com/sajaaliadi0-ai/PROJECT.git
 
-## 4. Notes and Next Steps
+Current Branch: The initial code is available on the branch feature/SCRUM-23-v1-release.
 
-This feature branch will soon be merged into the main branch (`main`), serving as the foundation for all future development related to other Jira tasks (such as `SCRUM-11` and `SCRUM-10`).
+Run: Open the saja.html file directly in any modern web browser.
 
----
+4. Notes and Next Steps
+
+This release serves as the foundation of the project, and all future restructuring, optimizations, and enhancements (as done in V2.0) will build upon this initial code base.
+It will eventually be merged with updated branches to enable improved UI, responsiveness, and additional features.
